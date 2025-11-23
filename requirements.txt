@@ -1,0 +1,30 @@
+# Core
+faker
+python-dotenv
+
+# Data Processing
+pandas
+pyarrow
+
+# Kafka
+confluent-kafka
+
+# Spark
+pyspark
+
+# Database
+SQLAlchemy
+
+# DBT
+dbt-core
+dbt-postgres
+
+# Utilities
+pyyaml
+
+# Logging
+loguru
+
+# Testing
+pytest
+pytest-cov
